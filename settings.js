@@ -20,7 +20,7 @@ global.APIKeys = {
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autobio = false  // auto bio system checking on Developing Leval
+global.autobio = true  // auto bio system checking on Developing Leval
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -36,28 +36,28 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
+global.vcardowner = ['94788501190'] //ur owner number
+global.ownername = "❤️😼ᴋɪɴɢ ᴀᴅᴇᴇꜱʜᴀʏᴀ😼❤️" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '9471421243' //ur tag number
-global.botname = 'CYBER-X TEST EDITION' //ur bot name
+global.owner = ['94788501190']
+global.ownertag = '94788501190' //ur tag number
+global.botname = '෴ᴋɪɴɢ ᴀᴅᴇᴇꜱʜᴀʏᴀ😼⃢ ࿐' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🚀" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
+global.packname = "❤️😼ᴋɪɴɢ ᴀᴅᴇᴇꜱʜᴀʏᴀ😼❤️" //ur sticker watermark packname
 global.author = "DARK ALPHA" //ur sticker watermark author
-global.aliveimg ="https://telegra.ph/file/71c859102f3625d06204b.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
+global.aliveimg ="https://i.imgur.com/4CIMQqW.jpg"
+global.allmenuimg =https://i.imgur.com/4CIMQqW.jpg"
+global.welcomeimg= "https://i.imgur.com/4CIMQqW.jpg"
+global.gbyeimg = "https://i.imgur.com/4CIMQqW.jpg"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -93,16 +93,16 @@ global.antitags = true
 global.prefa = ['','!','.']
 global.sp = '⭔'
 global.mess = {
-    success: '✉️✏️ _Done_',
-    admin: '✉️✏️ _This Feature Is Only For Admin!_',
-    botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
-    owner: '✉️✏️ _This Feature Is Only For Owner!_',
+    success: '🙈 _Done_',
+    admin: '😼💔 _This Feature Is Only For Admin!_',
+    botAdmin: '🤫_Bot Must Be Admin First!_',
+    owner: '😼✏️ _This Feature Is Only For Owner!_',
     group: '✉️✏️ _Feature Used Only For Groups!_',
     private: '✉️✏️ _Features Used Only For Private Chat!_',
     bot: '✉️✏️ _This Feature Is Only For Bot_',
-    wait: '✉️✏️ _Processing Please Wait..._',
-    linkm: '📧✏️ _Where is the link?_',
-    error: '✉️🤕 ```Error!!```',
+    wait: '😼 _Processing Please Wait..._',
+    linkm: '✏️ _Where is the link?_',
+    error: '🤕 ```Error!!```',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
